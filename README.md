@@ -40,7 +40,46 @@
     <img src="https://img.shields.io/badge/Google%20Play-Visit%20My%20Apps-3DDC84?logo=google-play&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-<p>Check out all my published apps on my <a href="https://play.google.com/store/apps/dev?id=7175498397695458440" target="_blank"><b>Google Play Developer Account</b></a>.</p>
+## 📱 My Published Apps  
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.babaramdev.patanjaliayurved" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/CBwFK0mXwUw7z0bmR0CcPGemQpwYI7KwJTSyDW0IhSiIt6dqY_yOrHqZKh3gFGFfEVU=s96-rw" alt="Patanjali Ayurved" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.androidenthusiast.kidzrhymes3d" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/4sVhr_nXrFfak3vhxS-9EcRj4mBCE13ke4FxlQbdLrPCEbU6ip1KkOkDDidGcEpEGA=s96-rw" alt="Kids Rhymes 3D" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpionfunapp.rhymes" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/IFjl4ZyzNnAxRH_v6MfkoZVYdZqaz_1EiRnM8Y9uVLAlk-6yQGdJmdDXn2hi2jNgjNs=s96-rw" alt="Rhymes App" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.main" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/VKzA3UCO-Cv4mnMhwtRzq4fYxgY3wsc-km3mZ4jAbThnIBrHPlsbbHlXFoIoyb5oNBQ=s96-rw" alt="Scorpion Fun App" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.chankyaniti" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/gOVCH0j1zVIXHRgq9sQ4uTOkAIsI3b4zCUgw46Ul5K7GBxFMeOK7UGJbVzQF6rEtZpU=s96-rw" alt="Chanakya Niti" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.onetouch" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/zqA3R2n1JDR9nNpkCSUoJ6CDN6Ip7BoKZ-3-3I4bUQz5gGH0xW6QFw10M6-A6EPlK0s=s96-rw" alt="One Touch App" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.fitnessapp" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/oMKt1sk5DCj1ttOvaC7zKPYJ5gYHqQ75QTIe0qCmivIdG5cPLO1sgOssWjwE5XfYmY8=s96-rw" alt="Fitness App" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpion.shortcutkeys" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/lc7D1Zn2aF99tLB-FmCPw_cM6TYqCwQ0hSzfPTN-2HqMczh2Th7b_mFbWqTX5L29RA=s96-rw" alt="Shortcut Keys" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.pocket.resume" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/yZ_3m16EwQArAYP7OlrAFZ8VVLO4Zh7lY2B1QFdr05nWBx2QU3dZ-yzRcfjp4J16VA=s96-rw" alt="Pocket Resume" width="80" height="80"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.narenderResume.androiddeveloper" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/1cT4zQhXBtCcfkAFuFgEuwBRP5ZxZBp93OZEBssAkpVbGeD8cD-x4E1sOlyMyF7Dkpg=s96-rw" alt="Narender Resume" width="80" height="80"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Visit My Apps
+[Google Play Developer Account](https://play.google.com/store/apps/dev?id=7175498397695458440)
+
 
 ---
 
