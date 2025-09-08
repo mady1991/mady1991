@@ -36,7 +36,12 @@
   <img src="https://img.shields.io/badge/-App%20Center-004880?logo=appcenter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge" />
 </p>
+
 
 
 ---
