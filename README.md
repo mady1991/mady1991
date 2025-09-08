@@ -40,11 +40,10 @@
     <img src="https://img.shields.io/badge/Google%20Play-Visit%20My%20Apps-3DDC84?logo=google-play&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-## 📱 My Published Apps  
-
+ 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.babaramdev.patanjaliayurved" target="_blank">
-    <img src="[https://play-lh.googleusercontent.com/CBwFK0mXwUw7z0bmR0CcPGemQpwYI7KwJTSyDW0IhSiIt6dqY_yOrHqZKh3gFGFfEVU=s96-rw](https://play-lh.googleusercontent.com/0x7qfqbXxaUS4rDVQWC_8bwdifZ8gxbFYv_R1DBMyPMZscSapxJmIZlWIYnDfzf4WBQF=s112-rw)" alt="Patanjali Ayurved" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/0x7qfqbXxaUS4rDVQWC_8bwdifZ8gxbFYv_R1DBMyPMZscSapxJmIZlWIYnDfzf4WBQF=s512-rw" alt="Patanjali Ayurved" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.androidenthusiast.kidzrhymes3d" target="_blank">
     <img src="https://play-lh.googleusercontent.com/4sVhr_nXrFfak3vhxS-9EcRj4mBCE13ke4FxlQbdLrPCEbU6ip1KkOkDDidGcEpEGA=s96-rw" alt="Kids Rhymes 3D" width="80" height="80"/>
