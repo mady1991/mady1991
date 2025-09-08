@@ -1,6 +1,6 @@
 # Hi 👋, I'm Narender Kumar  
 
-🚀 Mobile Application Developer | Flutter & Android Expert  
+🚀 Mobile Lead | Mobile Architect | Flutter, Android & React Native Expert  
 
 - 🔭 I’m currently working on **React Native & Flutter projects**
 - 🌱 I’m learning **AI integrations in mobile apps**
