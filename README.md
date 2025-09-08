@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.babaramdev.patanjaliayurved" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/CBwFK0mXwUw7z0bmR0CcPGemQpwYI7KwJTSyDW0IhSiIt6dqY_yOrHqZKh3gFGFfEVU=s96-rw" alt="Patanjali Ayurved" width="80" height="80"/>
+    <img src="[https://play-lh.googleusercontent.com/CBwFK0mXwUw7z0bmR0CcPGemQpwYI7KwJTSyDW0IhSiIt6dqY_yOrHqZKh3gFGFfEVU=s96-rw](https://play-lh.googleusercontent.com/0x7qfqbXxaUS4rDVQWC_8bwdifZ8gxbFYv_R1DBMyPMZscSapxJmIZlWIYnDfzf4WBQF=s112-rw)" alt="Patanjali Ayurved" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.androidenthusiast.kidzrhymes3d" target="_blank">
     <img src="https://play-lh.googleusercontent.com/4sVhr_nXrFfak3vhxS-9EcRj4mBCE13ke4FxlQbdLrPCEbU6ip1KkOkDDidGcEpEGA=s96-rw" alt="Kids Rhymes 3D" width="80" height="80"/>
@@ -74,11 +74,6 @@
     <img src="https://play-lh.googleusercontent.com/1cT4zQhXBtCcfkAFuFgEuwBRP5ZxZBp93OZEBssAkpVbGeD8cD-x4E1sOlyMyF7Dkpg=s96-rw" alt="Narender Resume" width="80" height="80"/>
   </a>
 </p>
-
----
-
-## 🌐 Visit My Apps
-[Google Play Developer Account](https://play.google.com/store/apps/dev?id=7175498397695458440)
 
 
 ---
