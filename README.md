@@ -17,4 +17,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mady1991&show_icons=true&theme=dark)  
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/narender-kumar-6727aa48/)](https://www.linkedin.com/in/narender-kumar-6727aa48/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narender-kumar-6727aa48/)
+
