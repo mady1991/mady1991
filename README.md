@@ -34,6 +34,16 @@
 
 ---
 
+## 📱 Published Apps  
+<p align="left">
+  <a href="https://play.google.com/store/apps/dev?id=7175498397695458440" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Visit%20My%20Apps-3DDC84?logo=google-play&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+<p>Check out all my published apps on my <a href="https://play.google.com/store/apps/dev?id=7175498397695458440" target="_blank"><b>Google Play Developer Account</b></a>.</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mady1991&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
