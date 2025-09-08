@@ -1,11 +1,11 @@
 # Hi 👋, I'm Narender Kumar  
 
-🚀 Mobile Lead | Mobile Architect | Flutter, Android & React Native Expert  
+🚀 Mobile Lead | Mobile Architect | Flutter, Android, IOS & React Native Expert  
 
-- 🔭 I’m currently working on **React Native & Flutter projects**
+- 🔭 I’m currently working on **React Native, Flutter & Android projects**
 - 🌱 I’m learning **AI integrations in mobile apps**
-- 💬 Ask me about **Flutter, Kotlin, Android SDK**
-- 📫 Reach me at: [your email]  
+- 💬 Ask me about **Flutter, React Native, Kotlin, Android SDK, Dart, Java, XML, HTML**
+- 📫 Reach me at: kumar.narender1991@gmail.com  
 
 ## 🛠️ Languages and Tools  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
