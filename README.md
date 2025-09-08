@@ -46,31 +46,31 @@
     <img src="https://play-lh.googleusercontent.com/0x7qfqbXxaUS4rDVQWC_8bwdifZ8gxbFYv_R1DBMyPMZscSapxJmIZlWIYnDfzf4WBQF=s512-rw" alt="Patanjali Ayurved" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.androidenthusiast.kidzrhymes3d" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/4sVhr_nXrFfak3vhxS-9EcRj4mBCE13ke4FxlQbdLrPCEbU6ip1KkOkDDidGcEpEGA=s96-rw" alt="Kids Rhymes 3D" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/45weXkFoH1Gqc9xLhp8Clr8L8-LJY-1ZISxxv2qEQKQ9dxPsm7g2IhaOf4vVNGyWdQ=s512-rw" alt="Kids Rhymes 3D" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpionfunapp.rhymes" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/IFjl4ZyzNnAxRH_v6MfkoZVYdZqaz_1EiRnM8Y9uVLAlk-6yQGdJmdDXn2hi2jNgjNs=s96-rw" alt="Rhymes App" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/gEsGX61mzvsOHJzJM9FcObgZ1AbODaQSBx2N2XSUFrgo1gVaGwTz0hsm9q389geMNmY=s512-rw" alt="Rhymes App" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.main" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/VKzA3UCO-Cv4mnMhwtRzq4fYxgY3wsc-km3mZ4jAbThnIBrHPlsbbHlXFoIoyb5oNBQ=s96-rw" alt="Scorpion Fun App" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/7kv24eRUKN2n45zRjLnlyP4pfnkVjZ6ZoAKL4qItcS4H58LnXWOZr8n87vjPa6diCw=s512-rw" alt="Scorpion Fun App" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.chankyaniti" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/gOVCH0j1zVIXHRgq9sQ4uTOkAIsI3b4zCUgw46Ul5K7GBxFMeOK7UGJbVzQF6rEtZpU=s96-rw" alt="Chanakya Niti" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/USRQstG1woyG4oIAB8a1U-xobX_eDrf6Tgzlmo7pXAzy2byI7iBy3RUF-a7TD56xEkSL=s512-rw" alt="Chanakya Niti" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.onetouch" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/zqA3R2n1JDR9nNpkCSUoJ6CDN6Ip7BoKZ-3-3I4bUQz5gGH0xW6QFw10M6-A6EPlK0s=s96-rw" alt="One Touch App" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/biLMmEjC0Ro6ld53kUZC1217V1u5KLURmFa9D2wWcGG1gHr4SgA0Ini42jcaLIgs45Y=s512-rw" alt="One Touch App" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.fitnessapp" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/oMKt1sk5DCj1ttOvaC7zKPYJ5gYHqQ75QTIe0qCmivIdG5cPLO1sgOssWjwE5XfYmY8=s96-rw" alt="Fitness App" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/kRS-wSEc1-zKFz_1k5VJuaTryKFaH4ByZZ4AYNEKPKN1Pcc9j1VwDvx1odoE1gfDVqM=s512-rw" alt="Fitness App" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpion.shortcutkeys" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/lc7D1Zn2aF99tLB-FmCPw_cM6TYqCwQ0hSzfPTN-2HqMczh2Th7b_mFbWqTX5L29RA=s96-rw" alt="Shortcut Keys" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/T5pu_I9OpEYFkZnyoOSDsXWw7Wg5tstVavCt8S2dD0HEj4Po0JdXAamXpYibIu6W1kw=s512-rw" alt="Shortcut Keys" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.scorpionfun.pocket.resume" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/yZ_3m16EwQArAYP7OlrAFZ8VVLO4Zh7lY2B1QFdr05nWBx2QU3dZ-yzRcfjp4J16VA=s96-rw" alt="Pocket Resume" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/dVasF8FYNklhcD1uVhp40R2AR31Pq_97hjzt-G9RN7uFp8w-QQvxsoKwTU3kc8FKRA=s512-rw" alt="Pocket Resume" width="80" height="80"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.narenderResume.androiddeveloper" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/1cT4zQhXBtCcfkAFuFgEuwBRP5ZxZBp93OZEBssAkpVbGeD8cD-x4E1sOlyMyF7Dkpg=s96-rw" alt="Narender Resume" width="80" height="80"/>
+    <img src="https://play-lh.googleusercontent.com/rhqGtCzjvGP-5KDJQhvCIMUfl-u8fj90p7pn3TOKaI_LrWWxoemIqExPms9eYH81_4U=s512-rw" alt="Narender Resume" width="80" height="80"/>
   </a>
 </p>
 
