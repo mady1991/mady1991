@@ -91,6 +91,49 @@
 ---
 
 
+## 📱 Professional Apps  
+<p align="left">
+  <a href="https://play.google.com/store/apps/dev?id=7175498397695458440" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Visit%20My%20Apps-3DDC84?logo=google-play&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+ 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yas.app" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/YhVOvZQgpKztfqwNX4SpmjHRj0Q2t8Sk5EWJXDfmivK_F1cHXzI6_tMt0FYsUik18xk=w240-h480-rw" alt="Patanjali Ayurved" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ethara.ymc" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/TYVwNsx_aLXXNeiVNf7_GhYrRfX0XiJd8p3TVwSmxjkXlJd56u1iFHNBPXCwmMOMAA=w240-h480-rw" alt="Kids Rhymes 3D" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=hk.easyvan.app.client&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/bXY15bfOMlPZms1C8tOBtdqKi-TCTrDRPPYTD8HhKb1xZs5YRi1OAFDF2NVFiPB7q0E=s94-rw" alt="Rhymes App" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/search?q=carrefour&c=apps&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/MWadEoaHru4kzqyGIxnkftmdvwa-Np4LKRb3zf2PEiyo7ByXAGoGJG0Sa2EdFPlnnVLf=w240-h480-rw" alt="Scorpion Fun App" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.BanqueMisr.MobileBanking" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/wv5fhYM6RIlQU2fCHyDkjzMh1hfzwe9ekjjgtyWkhZfg1WUGgL4eWRRTRb5Dk0NMW6I=w240-h480-rw" alt="Chanakya Niti" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.overstock&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/takp3RiBbHOdLLK_cuVmSH3L30ZlWlnLrVWjbifaYvwN7kQ-mCCtyNnjADr-8rqnrQ=w240-h480-rw" alt="One Touch App" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.klout.app&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/s4K5ondigc2KjX-FnYWPfTkKJVE4cwQLTrS6bsmlRtz3M7raTgepwzgqZz1iipXn5So=w240-h480-rw" alt="Fitness App" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.timesgroup.timesjobs&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/wWZb9jUQDdOzyw_FZYdBFs63Na1XnlEa5w2SROfnOmd_yiHD_1DsgDcj3MZQCpDVl49F=w240-h480-rw" alt="Shortcut Keys" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.hirecalling&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/6NqjzU1gpd9ijOocxcUEhb1QoRhD8tj6PKur5r5bi5cxPWaic85IjBwi17hIbL8-sOY6=w240-h480-rw" alt="Pocket Resume" width="60" height="60"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.timesgroup.techgig&hl=en" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/iip5q-oY0eR0NCmMqOrnwg_EvkhFy2uWeLNpWAZFh6ygyUtnhZ6XlIuSGpUJ8Fp9bQ=s48-rw" alt="Narender Resume" width="60" height="60"/>
+  </a>
+</p>
+
+---
+
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mady1991&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
