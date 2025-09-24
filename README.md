@@ -91,13 +91,7 @@
 ---
 
 
-## 📱 Professional Apps  
-<p align="left">
-  <a href="https://play.google.com/store/apps/dev?id=7175498397695458440" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Play-Visit%20My%20Apps-3DDC84?logo=google-play&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
- 
+## 📱 Professional Apps   
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.yas.app" target="_blank">
     <img src="https://play-lh.googleusercontent.com/YhVOvZQgpKztfqwNX4SpmjHRj0Q2t8Sk5EWJXDfmivK_F1cHXzI6_tMt0FYsUik18xk=w240-h480-rw" alt="Patanjali Ayurved" width="60" height="60"/>
